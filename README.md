@@ -1,5 +1,3 @@
-# Tema do prjeto
-
 # 🌿 AgroLegal — Portal de Sustentabilidade e Legislação Ambiental
 
 ![Agrinho](https://img.shields.io/badge/Programa-Agrinho%202026-brightgreen)
